@@ -68,6 +68,7 @@ img {
 .menu-wrapper{
     background-color: #f0eceb;
     height:850px;
+    width: 100%;
     display: flex;
     position: relative;
     
